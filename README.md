@@ -1,4 +1,4 @@
-Houdini scripts
+# Houdini scripts
 
 This is the start of a set of python scripts I wrote to automate parts of my workflow while working in Houdini.
 
